@@ -1,1 +1,1 @@
-# zuri-designed-cv
+## Zuri-cv-template
